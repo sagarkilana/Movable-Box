@@ -1,0 +1,6 @@
+1. Project created in Angular 11 version.
+2. Angular material used for button. Use the below command to install material
+    ng add @angular/material
+3. Needs to run using the below command under project folder
+    ng serve
+4. Open localhost:4200 in local browser to open the Application
